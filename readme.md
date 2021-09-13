@@ -4,4 +4,4 @@
 -sixs
 --abc
 sevens
-seven2
+seven2 seven4
