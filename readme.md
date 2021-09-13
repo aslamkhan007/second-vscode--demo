@@ -4,4 +4,4 @@
 -sixs
 --abc
 sevens
-seven2 seven1 seven5 aaa vfdf fgfhg hgjgj
+seven2 seven seven aaa vfdf fgfh hgj
