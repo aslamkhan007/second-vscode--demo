@@ -10,4 +10,4 @@ g1 gfhgfghfjhjhjgh .22.pp
 g1 gfhgfghfjhjhjgh .22k22ggggk22
 aa
 g1 gfhgfghfjhjhjgh .22k22k22
-ssa dd
+ssa dd locala
